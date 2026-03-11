@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1de4872b91505068",
+        "id": "05cf1823bdd03fab",
         "type": "tabs",
         "children": [
           {
-            "id": "94fa6cd890837ea9",
+            "id": "282d1feef4a367a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,11 +186,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94fa6cd890837ea9",
+  "active": "282d1feef4a367a4",
   "lastOpenFiles": [
     "slides/2026-03-16.md",
-    "slides/2026-03-23.md",
     "Templates/slides-template.md",
+    "slides/2026-03-26.md",
+    "slides/2026-03-23.md",
+    "slides/2026-03-23.md",
     "Templates",
     "obsidian-pkmer/styles.css",
     "obsidian-pkmer/manifest.json",
