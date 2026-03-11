@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "77b4b4539ced8171",
+        "id": "2b7f0f740288fb2f",
         "type": "tabs",
         "children": [
           {
-            "id": "2668a5647d0f3783",
+            "id": "752a5c38f9089bfd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "slides/2026-03-16.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-16.md"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "532440c9e42387c2",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "slides/2026-03-16.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2026-03-16.md 的反向链接列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "slides/2026-03-16.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-03-16.md 的大纲"
             }
           }
         ]
@@ -178,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2668a5647d0f3783",
+  "active": "752a5c38f9089bfd",
   "lastOpenFiles": [
     "slides/2026-03-16.md.md",
     "obsidian-pkmer/styles.css",
