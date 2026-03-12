@@ -11,5 +11,9 @@
   "blue-topaz-theme@@full-width-table": false,
   "blue-topaz-theme@@table-width": "table-width-auto",
   "blue-topaz-theme@@table-format-options": "default-table",
-  "blue-topaz-theme@@show-border-table": true
+  "blue-topaz-theme@@show-border-table": true,
+  "blue-topaz-theme@@accent-strong@@light": "#2563EB",
+  "blue-topaz-theme@@accent-strong@@dark": "#FBBF24",
+  "blue-topaz-theme@@font-size-vault-name": "1.0em",
+  "blue-topaz-theme@@title-justify-start": false
 }
