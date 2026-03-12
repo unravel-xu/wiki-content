@@ -15,5 +15,6 @@
   "blue-topaz-theme@@accent-strong@@light": "#2563EB",
   "blue-topaz-theme@@accent-strong@@dark": "#FBBF24",
   "blue-topaz-theme@@font-size-vault-name": "1.0em",
-  "blue-topaz-theme@@title-justify-start": false
+  "blue-topaz-theme@@title-justify-start": false,
+  "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-default"
 }
