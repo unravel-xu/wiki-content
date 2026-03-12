@@ -1,5 +1,15 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-maroon"
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-maroon",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@toggle-bg-panel-page": true,
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@file-line-width": 60,
+  "blue-topaz-theme@@table-style-options": "table-style-default",
+  "blue-topaz-theme@@full-width-table": false,
+  "blue-topaz-theme@@table-width": "table-width-auto",
+  "blue-topaz-theme@@table-format-options": "default-table",
+  "blue-topaz-theme@@show-border-table": true
 }
