@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/idea/分段低秩微调3.md",
+                "file": "slides/2026-03-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分段低秩微调3"
+              "title": "2026-03-20"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/idea/分段低秩微调3.md",
+                "file": "slides/2026-03-20.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "分段低秩微调3 的大纲"
+              "title": "2026-03-20 的大纲"
             }
           }
         ],
@@ -189,10 +189,11 @@
   },
   "active": "fb18bd2ff78c4031",
   "lastOpenFiles": [
-    "notes/idea/分段低秩微调1.md",
-    "notes/idea/分段低秩微调3.md",
-    "notes/idea/分段低秩微调2.md",
     "slides/2026-03-16.md",
+    "slides/2026-03-20.md",
+    "notes/idea/分段低秩微调3.md",
+    "notes/idea/分段低秩微调1.md",
+    "notes/idea/分段低秩微调2.md",
     "notes/theory/梯度下降.md",
     "notes/theory",
     "notes/idea",
