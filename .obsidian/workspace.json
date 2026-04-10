@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "532440c9e42387c2",
@@ -188,6 +189,7 @@
   },
   "active": "fb18bd2ff78c4031",
   "lastOpenFiles": [
+    "Pasted image 20260410210452.png",
     "notes/unread/协同训练.md",
     "notes/model merge/ACE-Merging reproduce.md",
     "notes/model merge",
