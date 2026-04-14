@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/idea/recommendation contents.md",
+                "file": "notes/高效科研/Auto Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recommendation contents"
+              "title": "Auto Research"
             }
           }
         ]
@@ -188,19 +188,21 @@
   },
   "active": "2bad5d1d8a3255a4",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/slides-template.md",
+    "notes/unread/Continual Agent Learning.md",
+    "notes/unread/协同训练.md",
+    "notes/theory/梯度下降.md",
+    "notes/idea/recommendation contents.md",
     "slides/2026-04-13.md",
     "slides/2026-03-20.md",
     "slides/2026-03-28.md",
     "notes/idea/分段低秩微调8.md",
-    "notes/unread/Continual Agent Learning.md",
-    "notes/unread/协同训练.md",
-    "notes/theory/梯度下降.md",
     "notes/model merge/ACE-Merging reproduce.md",
     "Pasted image 20260410210452.png",
     "notes/model merge",
     "notes/高效科研/Auto Research.md",
     "notes/idea/Recommendation.md",
-    "notes/idea/recommendation contents.md",
     "notes/idea/分段低秩微调1.md",
     "notes/高效科研",
     "notes/idea/分段低秩微调2.md",
@@ -216,7 +218,6 @@
     "notes",
     "Inbox",
     "slides/2026-03-23.md",
-    "Templates/slides-template.md",
     "slides/2026-03-23.md",
     "slides/2026-03-26.md",
     "Templates",
