@@ -34,20 +34,6 @@
               "icon": "lucide-file",
               "title": "分段低秩微调实验"
             }
-          },
-          {
-            "id": "dacecd101707e97a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/雅思/备考.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "备考"
-            }
           }
         ]
       }
