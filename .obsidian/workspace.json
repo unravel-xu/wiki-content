@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/idea/unified-post-training/一些想法.md",
+                "file": "notes/idea/unified-post-training/Lifelong evolve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一些想法"
+              "title": "Lifelong evolve"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/idea/unified-post-training/一些想法.md",
+                "file": "notes/idea/unified-post-training/Lifelong evolve.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一些想法 的大纲"
+              "title": "Lifelong evolve 的大纲"
             }
           }
         ],
@@ -190,7 +190,7 @@
   "active": "b9d9107db2ac9e29",
   "lastOpenFiles": [
     "slides/2026-04-13.md",
-    "notes/idea/unified-post-training/一些想法.md",
+    "notes/idea/unified-post-training/Lifelong evolve.md",
     "notes/idea/unified-post-training",
     "slides/2026-03-20.md",
     "notes/idea/统一Post-Training(2).md",
