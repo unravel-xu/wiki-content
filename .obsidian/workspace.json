@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "532440c9e42387c2",
@@ -187,8 +186,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9d9107db2ac9e29",
+  "active": "01af059b243c2dad",
   "lastOpenFiles": [
+    "notes/Lifelong evolve/未命名",
+    "notes/Lifelong evolve",
     "slides/2026-04-13.md",
     "notes/idea/unified-post-training/Lifelong evolve.md",
     "notes/idea/unified-post-training",
@@ -218,7 +219,6 @@
     "Pasted image 20260426122553.png",
     "Pasted image 20260426122533.png",
     "Pasted image 20260425004441.png",
-    "notes/高效科研/Auto Research.md",
     "notes/雅思",
     "Pasted image 20260410210452.png",
     "notes/model merge",
@@ -227,7 +227,6 @@
     "notes/theory",
     "notes/idea",
     "notes",
-    "Inbox",
-    "Templates"
+    "Inbox"
   ]
 }
