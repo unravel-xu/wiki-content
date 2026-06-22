@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "150a6f92076d8e93",
+        "id": "593f01ba41906cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "b9d9107db2ac9e29",
+            "id": "9cccd3ac0841019d",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
+              "type": "empty",
               "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -182,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9d9107db2ac9e29",
+  "active": "9cccd3ac0841019d",
   "lastOpenFiles": [
     "notes/雅思/备考.md",
     "notes/idea/readme.md",
