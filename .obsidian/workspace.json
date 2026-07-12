@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/雅思/备考.md",
+                "file": "notes/高效科研/Auto Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "备考"
+              "title": "Auto Research"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/雅思/备考.md",
+                "file": "notes/高效科研/Auto Research.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "备考 的大纲"
+              "title": "Auto Research 的大纲"
             }
           }
         ],
@@ -188,9 +188,9 @@
   },
   "active": "d6886e5def00b31e",
   "lastOpenFiles": [
+    "notes/雅思/备考.md",
     "notes/雅思/大纲.md",
     "notes/雅思/作文.md",
-    "notes/雅思/备考.md",
     "notes/雅思/会议.md",
     "Pasted image 20260704213945.png",
     "Pasted image 20260704213938.png",
